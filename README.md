@@ -11,8 +11,7 @@
 
 ---
 
-## Demo
-
+## Screen Responces Demo
 > Register → Login → Home → Logout — full auth flow
 [tryitonce_app_screens.html](https://github.com/user-attachments/files/26481314/tryitonce_app_screens.html)
 ---
